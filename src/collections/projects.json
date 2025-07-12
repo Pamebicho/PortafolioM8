@@ -1,0 +1,38 @@
+[
+	{
+		"name": "CorreoTemporal.Mejor",
+		"description": "El mejor servicio de correo electrónico temporal.",
+		"image": "/assets/images/projects/tempmail.best.png",
+		"url": "https://tempmail.best"
+	},
+	{
+		"name": "DNS.Mundial",
+		"description": "Consulta de resultados DNS en distintas regiones del mundo.",
+		"image": "/assets/images/projects/dns.surf.png",
+		"url": "https://dns.surf"
+	},
+	{
+		"name": "HTML.ZONE",
+		"description": "Conjunto de herramientas web útiles.",
+		"image": "/assets/images/projects/html.zone.png",
+		"url": "https://html.zone"
+	},
+	{
+		"name": "Sink",
+		"description": "Acortador de enlaces simple, rápido y seguro con estadísticas.",
+		"image": "/assets/images/projects/sink.cool.png",
+		"url": "https://sink.cool"
+	},
+	{
+		"name": "Blog",
+		"description": "Convierte tu canal de Telegram en un microblog personal.",
+		"image": "/assets/images/projects/broadcast-channel.png",
+		"url": "https://github.com/ccbikai/BroadcastChannel"
+	},
+	{
+		"name": "L(O*62).ONG",
+		"description": "Haz que tu enlace sea exaaaaaaaaaaaaaaaaaaaageradamente largo.",
+		"image": "/assets/images/projects/long.png",
+		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
+	}
+]
