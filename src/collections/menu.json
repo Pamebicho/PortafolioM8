@@ -1,18 +1,18 @@
 [
 	{
 		"name": "Inicio",
-		"url": "/"
+		"url": "/PortafolioM8/"
 	},
 	{
 		"name": "Acerca de Mi",
-		"url": "/about"
+		"url": "/PortafolioM8/about"
 	},
 	{
 		"name": "Proyectos",
-		"url": "/projects"
+		"url": "/PortafolioM8/projects"
 	},
 	{
 		"name": "Publicaciones",
-		"url": "/posts"
+		"url": "/PortafolioM8/posts"
 	}
 ]
