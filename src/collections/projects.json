@@ -1,38 +1,38 @@
 [
 	{
-		"name": "CorreoTemporal.Mejor",
-		"description": "El mejor servicio de correo electrónico temporal.",
-		"image": "/assets/images/projects/tempmail.best.png",
-		"url": "https://tempmail.best"
+		"name": "App EcoMove",
+		"description": "EcoMove es una app que incentiva la movilidad sustentable mediante desafios ecológicos y recompensas personalizadas.",
+		"image": "/assets/images/projects/Sin título.png",
+		"url": ""
 	},
 	{
 		"name": "DNS.Mundial",
 		"description": "Consulta de resultados DNS en distintas regiones del mundo.",
 		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"url": ""
 	},
 	{
 		"name": "HTML.ZONE",
 		"description": "Conjunto de herramientas web útiles.",
 		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"url": ""
 	},
 	{
 		"name": "Sink",
 		"description": "Acortador de enlaces simple, rápido y seguro con estadísticas.",
 		"image": "/assets/images/projects/sink.cool.png",
-		"url": "https://sink.cool"
+		"url": ""
 	},
 	{
 		"name": "Blog",
 		"description": "Convierte tu canal de Telegram en un microblog personal.",
 		"image": "/assets/images/projects/broadcast-channel.png",
-		"url": "https://github.com/ccbikai/BroadcastChannel"
+		"url": ""
 	},
 	{
 		"name": "L(O*62).ONG",
 		"description": "Haz que tu enlace sea exaaaaaaaaaaaaaaaaaaaageradamente largo.",
 		"image": "/assets/images/projects/long.png",
-		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
+		"url": ""
 	}
 ]
